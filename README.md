@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anikde
-- 👀 I’m interested in Deep Learning with Focus on Computer Vision.
+- 👀 I’m interested in Deep Learning with focus on Computer Vision.
 - 🌱 I’m currently learning Transformers to carry out vision tasks.
-- 💞️ I’m looking to collaborate on projects that works in the intersection of computer vision and deep learning (also robotics too).
+- 💞️ I’m looking to collaborate on projects that works in the intersection of computer vision and deep learning (also robotics).
 - 📫 Email me anekde@gmail.com
 
 <!---
