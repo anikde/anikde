@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anikde
-- 👋 Currently working as Senior Project Engineer at VL2G @ IIT Jodhupr, under Dr. Anand Mishra.
+- 👋 Currently working as Senior Project Engineer at VL2G @ IIT Jodhupr, under [Dr. Anand Mishra](https://anandmishra22.github.io/).
 - 👀 I’m interested in Deep Learning with focus on Computer Vision.
 - 🌱 I’m currently working on LLMs to carry out Language-Vision tasks.
 - 💞️ I’m looking to collaborate on projects that works in the intersection of computer vision and deep learning (also robotics).
